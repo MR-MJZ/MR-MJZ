@@ -1,4 +1,4 @@
-👋 Hi, I’m @MR-MJZ
+👋 Hi, I’m MJZ
 
 🎮 **Game Developer** | 📱 **Mobile & Windows App Creator**  
 I’m passionate about crafting engaging experiences, whether it’s building dynamic games or developing versatile applications for Android and Windows platforms.
@@ -19,7 +19,7 @@ Curiosity drives me. Right now, I’m exploring:
 If you're working on an exciting game project or a unique application idea, let's connect! I'm eager to collaborate on projects that challenge me and help me grow.
 
 ### 📫 How to Reach Me
-- **Telegram**: MR_MJZ
+- **Telegram**: ؟؟؟؟
 
 ### 😄 Pronouns
 He/Him
